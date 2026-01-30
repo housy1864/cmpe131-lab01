@@ -1,0 +1,2 @@
+# Based on this lab, why is using branches a powerful and safe way for a team of software engineers to collaborate on a single project? What problems might it prevent?
+By working on different branches, programmers can not only do their own set of codes under their preferred pace and format, but also prevent their code being modified or erased by other programmers accidently.
